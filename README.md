@@ -18,7 +18,7 @@
 
 - git clone
   ```
-  <[repository_url](https://github.com/iamaniketg/Product-Delivery-Platform-.git)>
+  https://github.com/iamaniketg/Product-Delivery-Platform-.git
   ```
 - Open the project in your preferred IDE.
 - Configure the MySQL database connection in the application.properties file.
